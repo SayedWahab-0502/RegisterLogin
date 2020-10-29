@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RegisterLogin</string>
+    <string name="username">username</string>
+    <string name="mail">mail</string>
+    <string name="password">password</string>
+    <string name="register">register</string>
+    <string name="retrieve">retrieve</string>
+</resources>
